@@ -6,6 +6,7 @@ import java.util.Collections;
 
 public class Gecko {
 	public static void main(String[] args) {
+		System.out.println("hi");
 	////////////////////////////////Switch////////////////////////////////	
 //		int num = 25;
 //		switch(num) {
@@ -48,4 +49,5 @@ public class Gecko {
         }
         return duplicateCount;
     }
+	
 }
