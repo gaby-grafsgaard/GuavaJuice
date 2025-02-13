@@ -6,7 +6,7 @@ import java.util.Collections;
 
 public class Gecko {
 	public static void main(String[] args) {
-		System.out.println("hi hello, good morning, again");
+		System.out.println("hi hello, good morning, again,hkj");
 	////////////////////////////////Switch////////////////////////////////	
 //		int num = 25;
 //		switch(num) {
